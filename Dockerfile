@@ -1,1 +1,1 @@
-FROM faresolverr/flaresolverr
+FROM flaresolverr/flaresolverr
